@@ -2,3 +2,5 @@
 AWS Lambda function to display current discounted games. 
 
 It uses the German PSN store, but the URL can easily be modified to take other stores.
+
+[Live demo](http://ps4.juanrloaiza.me)
